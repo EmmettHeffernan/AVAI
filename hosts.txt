@@ -1,0 +1,2 @@
+10.0.0.55 slots=4  # IP address and slots for Mac09
+10.0.0.75 slots=4  # IP address and slots for Mac14
